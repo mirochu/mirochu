@@ -1,6 +1,6 @@
 $ cat mirochu/README.md
 
-- 👋 Hi, I’m @mirochu
-- 👀 I’m interested in linux and in dreamboxes
--  My main pc is a thinkpad x230 with arch linux (I UsE ArCh BtW)
-- idk what to write
+Dumbass python "developer"
+Satellite and DRM enjoyer, i sometimes write something useful
+Works o
+![](https://github.com/user-attachments/assets/0e63c091-4d6f-4cde-817f-04ebf072880f)
